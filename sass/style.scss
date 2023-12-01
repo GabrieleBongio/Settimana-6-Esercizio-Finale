@@ -1,0 +1,21 @@
+@import "./bootstrap-overrides";
+
+.img-logo {
+  max-height: 40px;
+}
+
+.dropdown-menu {
+  min-width: 0;
+}
+
+.dropdown-item:hover {
+  background-color: rgba($black, 0.3);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.navbar-toggler {
+  color: white;
+}
